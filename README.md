@@ -2,7 +2,7 @@
      align="right" 
      style="margin-right: 15px;" />
      
- <p align="center">    
+ <p align="center">    o
  $${\color{#b0b7a2}ka\color{#a6684a}kashi}$$ 　　　mirror prns 
       
  <p align="center">
